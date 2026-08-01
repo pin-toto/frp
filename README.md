@@ -1,4 +1,4 @@
-# 🔍 FRP - Fast Random Port Scanner
+# 🔍 FRP - find random ip
 
 **FRP** is a high-performance asynchronous port scanner written in Python. It generates random IP addresses and scans them for open ports.  
 Ideal for **network reconnaissance**, **security testing**, and **educational purposes**.
